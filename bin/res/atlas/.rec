@@ -1,0 +1,67 @@
+D .
+R 596FC9D9 inflation.ani
+R 39B957DA texture.png
+D bg
+P 777641BB amao.png
+P 4AA7E7FD angry.png
+P 1BFF90C3 de.png
+R FB0518DB logo.jpg
+P 65B35915 ranklist.png
+P 58BC17AD shop.png
+P 926B9E6C start.png
+D bitmapfont
+R 0894F59C font.fnt
+P B524D6C4 font.png
+D coin
+P 4F227967 coin - 副本.png
+P 4403E078 coin.png
+P 366C0A4A supercoin - 副本.png
+P 366C0A4A supercoin.png
+D danger
+P A85E5BE5 danger (1).png
+P F030F6E1 danger (10).png
+P 1F1D4012 danger (11).png
+P FA0630C4 danger (12).png
+P 2FC5B667 danger (2).png
+P 7B324FBB danger (3).png
+P 3BB188B1 danger (4).png
+P 1FC18AFA danger (5).png
+P CBABA927 danger (6).png
+P 5DECC8D8 danger (7).png
+P D8EA9042 danger (8).png
+P B03F4F4C danger (9).png
+D dragon
+P 462068B5 amao.png
+R 57A83381 amao.sk
+P EBC8BB05 bianyi.png
+R C1150E53 bianyi.sk
+P 6F429470 黄金阿毛.png
+R F9AF029C 黄金阿毛.sk
+D scene
+R B312B37B caodi.png
+P E1D4CCD5 cloud.png
+P B8EF433D cloud2.png
+R F52402FC gamebg.jpg
+P C7E3C71A gameover.png
+R BFEF473A land.png
+R 672A6E79 moutain.png
+R C9911D97 moutain2.png
+P EB609403 replay.png
+P 98AEB4E7 return.png
+R B7FDB70C zhalan.png
+D shop
+P F8591A7C 20000.png
+P 7118DD29 5000.png
+P 260E7EE9 amaoavatar.png
+P D99E5B51 amaoname.png
+P 2781ADE1 bianname.png
+P F499FE4E bianyiamao.png
+P EDEC1B42 buy.png
+R FB2B70C5 buybg.png
+P 9445CF05 buydash.png
+P 7F926CB0 close.png
+P 26B18443 goldamao.png
+P 9A9F13FD goldname.png
+P 12DAC2C2 have.png
+P AEA6C1F7 price.png
+P 71E57B94 selected.png
